@@ -1,4 +1,10 @@
 * {
+    font-family: "Open Sans", sans-serif;
+}
+
+.fon img {
+    background-size: contain;
+    width: 100%;
     min-width: 1048px;
     position: absolute;
     z-index: -1;
